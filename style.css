@@ -1,0 +1,49 @@
+.btn-group btn-group-lg{
+  width: 100%;
+}
+
+
+.button {
+  background-color: #04AA6D; /* Green */
+  border: none;
+  color: white;
+  padding: 30px 78px;
+  text-align: center;
+  text-decoration: none;
+ display: inline-block;
+  font-size: 22px;
+  margin: 1px 1px;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #0b0b0b;
+}
+
+.button2 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #121212;
+}
+
+.button3 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #070707;
+}
+
+.button4 {
+  background-color: white;
+  color: black;
+  border: 2px solid #0b0a0a;
+}
+
+
+
+@media (min-width: 600px) {
+  .carousel-item {
+    width: 50%;
+  }
+}
